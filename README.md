@@ -49,6 +49,13 @@ To Unbrick/Flash your control board
 So I decided to dump them one by one, and make it avaible to to world so nobody get stuck with a bricked control board anymore.
 
 If you used my fils and tutorial to save your board, please take your time to leave a comment and share your experience with the community.
-If you appreciate my work, I would ask you to leave the miner running with the default pool settings for a couple hours. They are my "devfees" and help bring you more and more firmware and cool tool in the future.
+If you appreciate my work, I would ask you to leave the miner running with the default pool settings for a couple hours. They are my "devfees" and help bring you more and more firmware and cool tool in the future. I got inspired by other devloppers to do this, this way my work can stay free of use and I don't have to include percentage devfees like all most others.
+It also allow for good testing of the unit operation.
+If your repair machine commercially or a lot of them, please make sure to leave them on default setting to test for at least an hour per units, commercial/sold service/batch type of work use is welcomed if this is respected only. Especially if you charge for your work.
 
-- Melody
+Once all is tested working for couple hours, perform a factory reset, update the board to the lastest version avaible of the miner firmware and
+ use your own pool settings and workers, all firware that could have been unlocked for any pool.
+ 
+ Have a bright and butterfly day
+ 
+ Melody
