@@ -6,7 +6,7 @@ Used to UnBrick Control Boards and for repairs.
 - All tested to work 100% 
 - All dumped 1:1 from nand with 0 bad blocks.
 
-Dumps need to be flashed using a nand programmer (Tl866ii+(with nand08/nandx8 adapter) , T48 and T56 tested 100% working for this and easy to find cheap, also powerful tools for any repairs)
+Dumps need to be flashed using a nand programmer (Tl866ii+(with nand08/nandx8 adapter) , T48 , T56 and DATAMAN-48PRO2 tested 100% working for this and easy to find cheap, also powerful tools for any repairs)
 Other model of nand programmer should work just fine too.
 
 
