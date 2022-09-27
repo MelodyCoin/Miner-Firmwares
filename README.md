@@ -30,7 +30,7 @@ To Unbrick/Flash your control board
  
  6 - Erase the nand in your programmer software and perform a blank check to make sure nand is well erased and is perform as intended, sometime, the are not well seated in the adapter and will cause errors.
  
- 7 - Load the downloaded Nand Dump for you miner model in the programmer software and click program/flash,
+ 7 - Load the downloaded Nand Dump for you miner model in the programmer software and click program/flash, note that nand image are compressed in 7zip archive format. Don't forget to extract before flashing. aka not directly flash downloaded file ^^
  
  8 - If your programmer does not auto-verify, click verify in the interface to make sure data is 100% okay on the chip. If it was auto-verified good or passes, proceed to next step, if it fails, try to reseat the chip and restart the programming. If it flash ok and pass the verify, go to next step, if it still fails, make sure it is well seated in the programmer , possibility of a bad chip too. You can normally run a bad block check from the programmer software interface. if it have bad block(s), replacing the chip is advised. Don't forget to flash the new chip before soldering it if you need to replace it!
  
